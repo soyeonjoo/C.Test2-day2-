@@ -1,10 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include "selectSort.h"
+#include "bubbleSort.h"
 //
 //
-//void main() {
-//	//	selectSort();
+void main() {
+//		selectSort();
+		bubbleSort();
 //
 //		/* 구조체 연습
 //		struct student {
@@ -134,4 +136,4 @@
 //
 //
 //
-//}
+}
